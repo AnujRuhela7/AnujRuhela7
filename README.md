@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnujRuhela7
 - 👀 I’m interested in exploring new things...
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects of Java, C++, Python, Web Dev.
+- 💞️ I’m looking to collaborate on projects of Web Development.
 - 📫 How to reach me : ruhela7777@gmail.com
 
 <!---
